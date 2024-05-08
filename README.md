@@ -30,7 +30,7 @@ Payload
 ### Get Checkins/Updates or with filter(weekStart{2024-02-02 00:00:00}, weekEnd{2024-02-07 00:00:00}, sprint, date, owner, date) (GET)
 Endpoint
 ```
-localhost:8080/checkin?owmer=James
+localhost:8080/checkin?owner=James
 ```
 
 ## Tests
